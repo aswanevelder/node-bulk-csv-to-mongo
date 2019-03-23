@@ -16,8 +16,8 @@ object.insert(lines, function, [params]);
 
 Environment Variables
 
-STORE_DBURL = MongoDB Url
-STORE_DBNAME = MongoDB Database Name
+STORE_DBURL = MongoDB Url \
+STORE_DBNAME = MongoDB Database Name \
 STORE_COLLECTIONNAME = MongoDB Collection Name
 
 Optional Params as parameter
