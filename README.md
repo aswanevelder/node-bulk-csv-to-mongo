@@ -2,10 +2,10 @@
 NodeJS function to bulk import csv data to MongoDB
 
 # Installation
-Use the package manager npm to install node-bulk-csv-to-mongo.
+Use the package manager npm to install bulk-csv-to-mongo.
 
 ```
-npm i node-bulk-csv-to-mongo
+npm i bulk-csv-to-mongo
 ```
 
 # Usage
@@ -33,7 +33,7 @@ Optional Params as parameter
 ### Example
 
 ```
-const nbcm = require('../node-bulk-csv-to-mongo');
+const nbcm = require('bulk-csv-to-mongo');
 
 nbcm.insert(['value1,value2,value2,value3'], (lines) => {
     let collection = [];

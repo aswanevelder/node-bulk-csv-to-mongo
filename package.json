@@ -1,6 +1,6 @@
 {
   "name": "bulk-csv-to-mongo",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "NodeJS function to bulk import csv data to MongoDB",
   "main": "index.js",
   "scripts": {
